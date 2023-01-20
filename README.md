@@ -4,7 +4,7 @@ About Me:
 
 - 🔭 While you're here, checkout my front-end capstone: Cats I Know
 - 🌱 I’m currently learning Python/Django and SQL
-- 🤓 I’m studying with NSS
+- 🤓 I’m studying with Nashville Software School
 - 📫 How to reach me: maegyoung@gmail.com or find me on LinkedIn!
 - 🍞 Boring fact: I put peanut butter on both slices of bread when I make PB&J.
 - 🦀 Something I love: the Chesapeake Bay
