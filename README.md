@@ -2,7 +2,7 @@
 
 ## About Me:
 
-- 🔭 While you're here, checkout my front-end capstone: [Cats I Know](https://github.com/MaeYoungPhan/cats-I-know)
+- 🔭 While you're here, checkout my front-end project: [Cats I Know](https://github.com/MaeYoungPhan/cats-I-know)
 - 🌱 I’m currently learning Python/Django and SQL
 - 🤓 I’m studying with Nashville Software School
 - 📫 How to reach me: maegyoung@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/maeyoungphan/)!
