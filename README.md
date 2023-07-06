@@ -5,7 +5,10 @@
 - 🔭 While you're here, checkout my front-end project: [Cats I Know](https://github.com/MaeYoungPhan/cats-I-know)
 - 👩‍💻 I'm currently working on [The Maryland Bay Game](https://github.com/MaeYoungPhan/MdBayGameReact)
 - 🤓 I'm a graduate of [Nashville Software School](https://nashvillesoftwareschool.com/)
+- 🖥️ I'm working as a Full-Stack Application Developer
+- 💡 I'm working in Azure, C#/.Net Entity Framework, React, Typescript
 - 📫 How to reach me: maegyoung@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/maeyoungphan/)!
+- 🤖 I'm interested in : Machine Learning / AI Development
 - 🍞 Boring fact: I put peanut butter on both slices of bread when I make PB&J.
 - 🦀 Something I love: the Chesapeake Bay
 
