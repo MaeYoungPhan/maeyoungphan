@@ -5,7 +5,7 @@
 - 🤓 I'm a graduate of [Nashville Software School](https://nashvillesoftwareschool.com/)
 - 🖥️ I'm working as a Full-Stack Application Developer
 - 💡 I'm working in Azure, C#/.Net Entity Framework, React, Typescript
-- 📖 I'm currently learning LLM via [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/) & AWS via @ryanmurakami [Cloud Dev Workbook](https://www.ryanlewis.dev/workbook/)
+- 📖 I'm currently learning about AI & ML via [Practical Deep Learning](https://course.fast.ai/)
 - 😺 [Cats I Know](https://github.com/MaeYoungPhan/cats-I-know) is my front-end project from NSS. Check it out!
 - 👩‍💻 As I have time, I'm building more features for [The Maryland Bay Game](https://github.com/MaeYoungPhan/MdBayGameReact)
 - 📫 How to reach me: maegyoung@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/maeyoungphan/)!
